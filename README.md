@@ -18,7 +18,7 @@
 
 ## Download
 
-[JPG and SVG files](https://github.com/olivbau/POE-EndGameDiagram/releases)
+[JPG / SVG files](https://github.com/olivbau/POE-EndGameDiagram/releases)
 
 ## License
 
