@@ -14,6 +14,7 @@
     <br>
     <sup>Built with ❤︎ by <a href="https://github.com/olivbau/">olivbau</a></sup>
 </div>
+
 ## Links
 
 - [Website version](https://olivbau.github.io/POE-EndGameDiagram/)
