@@ -15,11 +15,9 @@
     <sup>Built with ❤︎ by <a href="https://github.com/olivbau/">olivbau</a></sup>
 </div>
 
-## Links
+## Download
 
-- [Website version](https://olivbau.github.io/POE-EndGameDiagram/)
-- [JPG file](https://raw.githubusercontent.com/olivbau/POE-EndGameDiagram/master/POE-EndGameDiagram.jpg)
-- [SVG file](https://olivbau.github.io/POE-EndGameDiagram/POE-EndGameDiagram.svg)
+[JPG and SVG files](https://github.com/olivbau/POE-EndGameDiagram/releases)
 
 ## License
 
