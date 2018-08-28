@@ -1,9 +1,5 @@
 <h1 align="center">POE-EndGameDiagram</h1>
 
-------
-
-
-
 <div align="center">
   <img src="https://img.shields.io/badge/POE%20version-3.3.2-brightgreen.svg?style=flat-square" alt="POE version"/>
   <img src="https://img.shields.io/github/issues/olivbau/POE-EndGameDiagram.svg?style=flat-square" alt="Issue"/>
