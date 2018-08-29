@@ -22,7 +22,7 @@
 
 ## Download
 
-[JPG / SVG files](https://github.com/olivbau/POE-EndGameDiagram/releases)
+[JPG file](https://github.com/olivbau/POE-EndGameDiagram/releases)
 
 ## Oversight/Mistake
 
