@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/release/olivbau/POE-EndGameDiagram.svg?style=flat-square" alt="Release"/>
   <img src="https://img.shields.io/github/license/olivbau/POE-EndGameDiagram.svg?style=flat-square" alt="License"/>
 </div>
-
+&nbsp;
 
 
 ![](https://raw.githubusercontent.com/olivbau/POE-EndGameDiagram/master/POE-EndGameDiagram.jpg)
