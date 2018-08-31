@@ -15,7 +15,7 @@
 <div align="center">
     <sub>The little diagram that could.</sub>
     <br>
-    <sup>Built with ❤︎ by <a href="https://github.com/olivbau/">olivbau</a></sup>
+    <sup>Built with <a href="https://github.com/jgraph/drawio">Draw.io</a> by <a href="https://github.com/olivbau/">olivbau</a></sup>
 </div>
 
 ## Link
