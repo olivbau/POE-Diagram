@@ -2,10 +2,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/POE%20version-3.3.2-brightgreen.svg?style=flat-square" alt="POE version"/>
-  <img src="https://img.shields.io/github/issues/olivbau/POE-EndGameDiagram.svg?style=flat-square" alt="Issue"/>
-  <img src="https://img.shields.io/github/stars/olivbau/POE-EndGameDiagram.svg?style=flat-square" alt="Star"/>
-  <img src="https://img.shields.io/github/release/olivbau/POE-EndGameDiagram.svg?style=flat-square" alt="Release"/>
-  <img src="https://img.shields.io/github/license/olivbau/POE-EndGameDiagram.svg?style=flat-square" alt="License"/>
+  <img src="https://img.shields.io/github/issues/olivbau/POE-Diagram.svg?style=flat-square" alt="Issue"/>
+  <img src="https://img.shields.io/github/stars/olivbau/POE-Diagram.svg?style=flat-square" alt="Star"/>
+  <img src="https://img.shields.io/github/release/olivbau/POE-Diagram.svg?style=flat-square" alt="Release"/>
+  <img src="https://img.shields.io/github/license/olivbau/POE-Diagram.svg?style=flat-square" alt="License"/>
 </div>
 &nbsp;
 
