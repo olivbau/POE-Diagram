@@ -1,4 +1,4 @@
-<h1 align="center">POE-EndGameDiagram</h1>
+<h1 align="center">POE-Diagram</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/POE%20version-3.3.2-brightgreen.svg?style=flat-square" alt="POE version"/>
@@ -10,7 +10,7 @@
 &nbsp;
 
 
-![](https://raw.githubusercontent.com/olivbau/POE-EndGameDiagram/master/POE-EndGameDiagram.jpg)
+![](https://raw.githubusercontent.com/olivbau/POE-Diagram/master/POE-EndGameDiagram.jpg)
 
 <div align="center">
     <sub>The little diagram that could.</sub>
@@ -20,15 +20,15 @@
 
 ## Link
 
-[JPG](https://raw.githubusercontent.com/olivbau/POE-EndGameDiagram/master/POE-EndGameDiagram.jpg)
+[JPG](https://raw.githubusercontent.com/olivbau/POE-Diagram/master/POE-EndGameDiagram.jpg)
 
 ## Download
 
-[JPG file](https://github.com/olivbau/POE-EndGameDiagram/releases)
+[JPG file](https://github.com/olivbau/POE-Diagram/releases)
 
 ## Oversight/Mistake
 
-Please open an issue on the [related section](https://github.com/olivbau/POE-EndGameDiagram/issues)
+Please open an issue on the [related section](https://github.com/olivbau/POE-Diagram/issues)
 
 ## License
 
