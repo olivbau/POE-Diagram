@@ -1,0 +1,21 @@
+{
+  "name": "poe-diagram",
+  "version": "0.7.0",
+  "description": "POE-Diagram",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.1.0"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivbau/POE-Diagram.git"
+  },
+  "author": "Baurain Olivier",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/olivbau/POE-Diagram/issues"
+  },
+  "homepage": "https://github.com/olivbau/POE-Diagram#readme"
+}
