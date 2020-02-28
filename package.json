@@ -1,7 +1,7 @@
 {
   "name": "poe-diagram",
   "version": "0.8.0",
-  "description": "POE-Diagram",
+  "description": "A Path of Exile diagram collection",
   "private": true,
   "dependencies": {},
   "devDependencies": {
