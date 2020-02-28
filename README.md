@@ -1,7 +1,6 @@
 <h1 align="center">POE-Diagram</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/POE%20version-3.3.2-brightgreen.svg?style=flat-square" alt="POE version"/>
   <img src="https://img.shields.io/github/issues/olivbau/POE-Diagram.svg?style=flat-square" alt="Issue"/>
   <img src="https://img.shields.io/github/stars/olivbau/POE-Diagram.svg?style=flat-square" alt="Star"/>
   <img src="https://img.shields.io/github/release/olivbau/POE-Diagram.svg?style=flat-square" alt="Release"/>
