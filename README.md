@@ -28,6 +28,10 @@
 
 Please open an issue on the [related section](https://github.com/olivbau/POE-Diagram/issues)
 
+## Export
+
+.\draw.io\draw.io.exe -x -q 100 -f jpg --height 3500 -o .\POE-Diagram\POE-WhatToDo.jpg .\POE-Diagram\POE-WhatToDo.xml
+
 ## License
 
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
