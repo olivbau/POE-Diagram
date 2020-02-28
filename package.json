@@ -7,7 +7,10 @@
     "cz-conventional-changelog": "^3.1.0",
     "release-it": "^12.6.2"
   },
-  "scripts": {},
+  "scripts": {
+    "commit": "git-cz",
+    "release": "release-it"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/olivbau/POE-Diagram.git"
@@ -21,6 +24,11 @@
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "release-it": {
+    "github": {
+      "release": false
     }
   }
 }
