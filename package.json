@@ -4,7 +4,8 @@
   "description": "POE-Diagram",
   "dependencies": {},
   "devDependencies": {
-    "cz-conventional-changelog": "^3.1.0"
+    "cz-conventional-changelog": "^3.1.0",
+    "release-it": "^12.6.2"
   },
   "scripts": {},
   "repository": {
