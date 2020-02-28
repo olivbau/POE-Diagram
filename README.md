@@ -10,7 +10,7 @@
 &nbsp;
 
 
-![](https://raw.githubusercontent.com/olivbau/POE-Diagram/master/POE-EndGameDiagram.jpg)
+![](https://raw.githubusercontent.com/olivbau/POE-Diagram/master/POE-WhatToDo.jpg)
 
 <div align="center">
     <sup>Built with <a href="https://github.com/jgraph/drawio">Draw.io</a> by <a href="https://github.com/olivbau/">olivbau</a></sup>
@@ -18,7 +18,7 @@
 
 ## Link
 
-[JPG](https://raw.githubusercontent.com/olivbau/POE-Diagram/master/POE-EndGameDiagram.jpg)
+[JPG](https://raw.githubusercontent.com/olivbau/POE-Diagram/master/POE-WhatToDo.jpg)
 
 ## Download
 
